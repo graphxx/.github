@@ -1,6 +1,11 @@
-## Hey! 👋
+<div align="center">
 
-We are GraphX, a graphic design company that makes all sorts of different designs!
+  ## Hey! 👋
+
+  We are GraphX, a graphic design company that makes all sorts of different designs!
+  
+</div>
+
 
 <!--
 
