@@ -2,7 +2,7 @@
 
   ## Hey! 👋
   
-  <img src="GraphX_fade.png" width="250" height="250" />
+  <img src="https://github.com/graphxx/.github/blob/main/profile/GraphX_fade.png" width="250" height="250" />
 
   ---
   
