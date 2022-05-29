@@ -2,7 +2,7 @@
 
   ## Hey! 👋
   
-  !(GraphX Logo)[GraphX_fade.png]
+  ![GraphX Logo](GraphX_fade.png)
 
   We are GraphX, a graphic design company that makes all sorts of different designs!
   
